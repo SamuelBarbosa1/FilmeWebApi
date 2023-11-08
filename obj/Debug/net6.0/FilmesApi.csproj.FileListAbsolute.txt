@@ -60,3 +60,5 @@ D:\samuel\CODE C#\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\samuel\CODE C#\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 D:\samuel\CODE C#\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
 D:\samuel\CODE C#\FilmesApi\obj\Debug\net6.0\FilmesApi.xml
+D:\samuel\CODE C#\FilmesApi\bin\Debug\net6.0\Castle.Core.dll
+D:\samuel\CODE C#\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
